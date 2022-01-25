@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\bin\Debug\net6.0\Reajuste_Salarial.exe
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\bin\Debug\net6.0\Reajuste_Salarial.deps.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\bin\Debug\net6.0\Reajuste_Salarial.runtimeconfig.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\bin\Debug\net6.0\Reajuste_Salarial.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\bin\Debug\net6.0\ref\Reajuste_Salarial.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\bin\Debug\net6.0\Reajuste_Salarial.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\obj\Debug\net6.0\Reajuste_Salarial.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\obj\Debug\net6.0\Reajuste_Salarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\obj\Debug\net6.0\Reajuste_Salarial.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\obj\Debug\net6.0\Reajuste_Salarial.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\obj\Debug\net6.0\Reajuste_Salarial.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\obj\Debug\net6.0\Reajuste_Salarial.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\obj\Debug\net6.0\ref\Reajuste_Salarial.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\obj\Debug\net6.0\Reajuste_Salarial.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Reajuste_Salarial\obj\Debug\net6.0\Reajuste_Salarial.genruntimeconfig.cache
